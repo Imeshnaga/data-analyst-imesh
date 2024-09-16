@@ -46,4 +46,8 @@ Curated Zone (S3 Bucket - Curated Folder):
 # This descriptive analysis project aims to provide a comprehensive understanding of incidents happened at UCW and to improve health and safety procedures and policies at UCW to mitigate the accidents.
 - Screen shot 1 : Operational environment analysis and Data analytics Platform 
 ![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%201-Operational%20environment%20analysis%20and%20Data%20analytics%20Platform.png)
-
+- Screen shot 2 : Descriptive data set under operational environment
+- Screen shot 3 : Descriptive data set under Analytical environment (S3 Bucket)
+- Screen shot 4 : Draw.io pipeline workings - Inspection completed rate visualization
+- Screen shot 5 : ETL Pipeline for inspection data set
+- Screen shot 6 : Data stored under curated folder in S3 bucket
