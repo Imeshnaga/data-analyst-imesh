@@ -45,7 +45,7 @@ Curated Zone (S3 Bucket - Curated Folder):
 - A presentation for particular department head to communicate important findings and suggestions for future action.
 # This descriptive analysis project aims to provide a comprehensive understanding of incidents happened at UCW and to improve health and safety procedures and policies at UCW to mitigate the accidents.
 - Screen shot 1 : Operational environment analysis and Data analytics Platform 
-![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%201-Operational%20environment%20analysis%20and%20Data%20analytics%20Platform.png)
+![AWS Project 1](Project 1 - Imeges/Screen shot 1-Operational environment analysis and Data analytics Platform.png)
 - Screen shot 2 : Descriptive data set under operational environment
 ![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%202%20-%20Descriptive%20data%20set%20under%20operational%20environment.png)
 - Screen shot 3 : Descriptive data set under Analytical environment (S3 Bucket)
