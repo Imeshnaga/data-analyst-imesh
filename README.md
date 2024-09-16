@@ -3,14 +3,14 @@
 # Project Title: Understanding Inspection report of incident happened on 2024
 # Objective: The primary goal of this project is to conduct a descriptive analysis of the Inspection report. Through this analysis, I aim to summarize key characteristics of inspection completions, identify trends, and generate insights that can inform health and safety strategies to UCW.
 # Dataset: The dataset includes descriptive data from Occupational health and safety at UCW over the recent year 2024, containing the following key features:
-• No of incident: Unique identifier for each incident
-• Date: Date and time of the incident
-• Department: Department name
-• Issue : What is the issue for the incident happened 
-• Severity : Medium, High , Low
-• Location : What is the exact place that incident happened
-• Status : Current status
-• Action taken : What kind of action taken
+- No of incident: Unique identifier for each incident
+- Date: Date and time of the incident
+- Department: Department name
+- Issue : What is the issue for the incident happened 
+- Severity : Medium, High , Low
+- Location : What is the exact place that incident happened
+- Status : Current status
+- Action taken : What kind of action taken
 # Methodology:
 # Steps
 # 1- Data Collection and Preparation:
