@@ -49,7 +49,7 @@ Curated Zone (S3 Bucket - Curated Folder):
 - Screen shot 2 : Descriptive data set under operational environment
 ![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%202%20-%20Descriptive%20data%20set%20under%20operational%20environment.png)
 - Screen shot 3 : Descriptive data set under Analytical environment (S3 Bucket)
-![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%201-Operational%20environment%20analysis%20and%20Data%20analytics%20Platform.png)
+![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%203%20-%20Descriptive%20data%20set%20under%20Analytical%20environment%20(S3%20Bucket).png)
 - Screen shot 4 : Draw.io pipeline workings - Inspection completed rate visualization
 ![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%201-Operational%20environment%20analysis%20and%20Data%20analytics%20Platform.png)
 - Screen shot 5 : ETL Pipeline for inspection data set
