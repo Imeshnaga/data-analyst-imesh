@@ -46,4 +46,4 @@ In this section, use Draw.io for visualizing data insights , for visualizations 
 • Visualizations and dashboards to present key insights clearly.
 • A presentation for particular department head to communicate important findings and suggestions for future action.
 # This descriptive analysis project aims to provide a comprehensive understanding of incidents happened at UCW and to improve health and safety procedures and policies at UCW to mitigate the accidents.
-Screen shot 1-Operational environment analysis and Data analytics Platform.png
+#Screen shot 1-Operational environment analysis and Data analytics Platform.png
