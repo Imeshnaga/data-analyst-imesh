@@ -96,8 +96,9 @@ Curated Zone (S3 Bucket - Curated Folder):
 # Screen shots
 - DAP from Draw.io ![AWS Project 2](Project - 2 - Imeage/DAP from Draw.io.png)
 - AWS Glue data brew cleaning and structuring data ![AWS Project 2](Project - 2 - Imeage/AWS Glue data brew cleaning and structuring data.png)
-- Atheena platforms data cleaning and structuring ![AWS Project 2](Project - 2 - Imeage/Atheena platforms data cleaning and structuring.png)
 - Projects created ![AWS Project 2](Project - 2 - Imeage/Projects created.png)
+- Atheena platforms data cleaning and structuring ![AWS Project 2](Project - 2 - Imeage/Atheena platforms data cleaning and structuring.png)
+
   
 # Data Quality Control  - Project 3
 # Project Description:
