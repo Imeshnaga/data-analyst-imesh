@@ -22,10 +22,11 @@ This section should summarize key statistics using data stored in the S3 bucket 
 - Upload the original dataset.
 - The dataset should contain raw data about incidents such as the incident ID, date, department, severity, and status.
 # Raw Zone (S3 Bucket - Raw Folder):
-- After the ETL pipeline processes the data from the landing zone, store the cleaned data (with corrected data types, missing values addressed, and duplicates removed) here.
-Curated Zone (S3 Bucket - Curated Folder):
-- After completing the transformations and aggregations, store the final summarized data here.
+- After the AWS Glue data brew processes the data from the landing zone, store the cleaned data (with corrected data types, missing values addressed, and duplicates removed) here.
+# Curated Zone (S3 Bucket - Curated Folder):
+- After completing the transformations and aggregations, store the final summarized data of AWS ETL pipeline  data set stored here.
 - The data here should include cleaned and processed insights ready for analysis and visualization.
+
 # 3- Data Visualization: 
 - In this section, use Draw.io for visualizing data insights , for visualizations created based on the curated data in the S3 bucket after ETL processing.
 # 4- Recommendations: 
