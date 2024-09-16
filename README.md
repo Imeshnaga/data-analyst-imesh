@@ -47,15 +47,15 @@ Curated Zone (S3 Bucket - Curated Folder):
 - Screen shot 1 : Operational environment analysis and Data analytics Platform 
 ![AWS Project 1](Project 1 - Imeges/Screen shot 1-Operational environment analysis and Data analytics Platform.png)
 - Screen shot 2 : Descriptive data set under operational environment
-![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%202%20-%20Descriptive%20data%20set%20under%20operational%20environment.png)
+![AWS Project 1](Project 1 - Imeges/Screen shot 2 - Descriptive data set under operational environment.png)
 - Screen shot 3 : Descriptive data set under Analytical environment (S3 Bucket)
-![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%203%20-%20Descriptive%20data%20set%20under%20Analytical%20environment%20(S3%20Bucket).png)
+![AWS Project 1](Project 1 - Imeges/Screen shot 3 - Descriptive data set under Analytical environment (S3 Bucket).png)
 - Screen shot 4 : Draw.io pipeline workings - Inspection completed rate visualization
-![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Inspection%20completed%20rate%20visualization%20-%202.png)
+![AWS Project 1](Project 1 - Imeges/Inspection completed rate visualization - 2.png)
 - Screen shot 5 : ETL Pipeline for inspection data set
-![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%205%20-%20ETL%20Pipeline%20for%20inspection%20data%20set.png)
+![AWS Project 1](Project 1 - Imeges/Screen shot 5 - ETL Pipeline for inspection data set.png)
 - Screen shot 6 : Data stored under curated folder in S3 bucket
-![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%206%20-%20Data%20stored%20under%20curated%20folder%20in%20S3%20bucket.png)
+![AWS Project 1](Project 1 - Imeges/Screen shot 6 - Data stored under curated folder in S3 bucket.png)
 
 # Data Wrangling - Project 2
 # Project Title: Data Wrangling for Enhanced Occupational Health and Safety Analytics at UCW
