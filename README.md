@@ -96,6 +96,7 @@ Curated Zone (S3 Bucket - Curated Folder):
 -	Visualizations illustrating the key data insights and confirmations of data quality checks were conducted during the process.
 #	Timeline:
 - Expected completion of the project: 6 weeks, including phases for assessment, cleaning, transformation, and documentation.
-
-
+  
+This modified project description ensures that the project objectives and datasets align with the HR-Occupational Health and Safety domain and UCW's inspection report analysis.
+# Screen shots
 
