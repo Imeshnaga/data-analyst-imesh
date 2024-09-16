@@ -95,12 +95,9 @@ Curated Zone (S3 Bucket - Curated Folder):
   This modified project description ensures that the project objectives and datasets align with the HR-Occupational Health and Safety domain and UCW's inspection report analysis.
 # Screen shots
 - DAP from Draw.io ![AWS Project 2](Project - 2 - Imeage/DAP from Draw.io.png)
-
 - AWS Glue data brew cleaning and structuring data ![AWS Project 2](Project - 2 - Imeage/AWS Glue data brew cleaning and structuring data.png)
-
-- Projects created ![AWS Project 2](Project - 2 - Imeage/Projects created.png)
-  
 - Atheena platforms data cleaning and structuring ![AWS Project 2](Project - 2 - Imeage/Atheena platforms data cleaning and structuring.png)
+- Projects created ![AWS Project 2](Project - 2 - Imeage/Projects created.png)
   
 # Data Quality Control  - Project 3
 # Project Description:
@@ -164,18 +161,12 @@ Identify key datasets that significantly impact UCW’s compliance with safety s
 -	Expected completion of the project: 8 weeks, including assessment, implementation, training, and monitoring setup.
 This initiative will empower UCW to enhance the integrity, reliability, and security of its Occupational Health and Safety data, resulting in better decision-making, improved safety outcomes, and compliance with regulatory requirements.
 # Screen shots
-- DAP platform in Draw.io
-![AWS Project 3](Project 3 - Imeges/DAP platform in Draw.io.png)
+- DAP platform in Draw.io ![AWS Project 3](Project 3 - Imeges/DAP platform in Draw.io.png)
 - AWS glue data cleaning for quality ![AWS Project 3](Project 3 - Imeges/AWS glue data cleaning for quality.png)
-- 
 - Storing data in trusted folder in S3 bucket ![AWS Project 3](Project 3 - Imeges/Storing data in trusted folder in S3 bucket.png)
-- 
 - AWS Glue workflow ![AWS Project 3](Project 3 - Imeges/AWS Glue workflow.png)
-- 
 - AWS cloud watch ![AWS Project 3](Project 3 - Imeges/AWS cloud watch.png)
-- 
 - AWS cloud trail ![AWS Project 3](Project 3 - Imeges/AWS cloud trail.png)
-- 
 - AWS KMS creation for data encryption ![AWS Project 3](Project 3 - Imeges/AWS KMS creation for data encryption.png)
 
 
