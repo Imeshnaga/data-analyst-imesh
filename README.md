@@ -13,10 +13,10 @@
 •	Action taken : What kind of action taken
 # Methodology:
 # Steps
-1-	Data Collection and Preparation:
+# 1- Data Collection and Preparation:
 o	Load the dataset using data analysis tools (Excel) .
 o	Perform data cleaning to address missing values, correct data types, and remove duplicates.
-2-	Descriptive Statistics: 
+# 2- Descriptive Statistics: 
        This section should summarize key statistics using data stored in the S3 bucket “ hr-occupational-health-and-safety-imesha “ in its different stages (landing, raw, curated) and processed via an ETL pipeline.
 # Landing Zone (S3 Bucket - Landing Folder):
 o	Upload the original dataset.
@@ -26,10 +26,10 @@ o	After the ETL pipeline processes the data from the landing zone, store the cle
 Curated Zone (S3 Bucket - Curated Folder):
 o	After completing the transformations and aggregations, store the final summarized data here.
 o	The data here should include cleaned and processed insights ready for analysis and visualization.
-3-	Data Visualization: 
+# 3- Data Visualization: 
 In this section, use Draw.io for visualizing data insights , for visualizations created based on the curated data in the S3 bucket after ETL processing.
 
-4-	Recommendations: 
+# 4- Recommendations: 
 •  Improving Health and Safety Protocols:
 •	Departments with high incident frequency should receive targeted safety training and enhanced protocols.
 •	Recommend focusing on departments that show high incident counts in the curated data.
