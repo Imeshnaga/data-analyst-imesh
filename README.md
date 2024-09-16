@@ -56,3 +56,46 @@ Curated Zone (S3 Bucket - Curated Folder):
 ![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%205%20-%20ETL%20Pipeline%20for%20inspection%20data%20set.png)
 - Screen shot 6 : Data stored under curated folder in S3 bucket
 ![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%206%20-%20Data%20stored%20under%20curated%20folder%20in%20S3%20bucket.png)
+
+# Data Wrangling 
+# Project Description: Data Wrangling for Occupational Health and Safety Analytics at UCW
+# Project Title: Data Wrangling for Enhanced Occupational Health and Safety Analytics at UCW
+# Objective:
+- The primary goal of this project is to perform comprehensive data wrangling to prepare a robust dataset for occupational health and safety analytics at UCW. By cleaning, transforming, and consolidating data from various inspection reports and safety logs, the project aims to enhance the accuracy and usability of safety-related data for subsequent analysis and reporting. This will help in identifying trends, mitigating risks, and improving workplace safety protocols.
+# Background:
+- UCW has accumulated inspection data from multiple departments regarding occupational health and safety incidents. However, this data is often inconsistent, incomplete, or fragmented, making it difficult to derive actionable insights. Effective data wrangling will enable UCW to make informed decisions and develop targeted safety strategies to reduce workplace risks and incidents.
+
+# Dataset: The data wrangling process will involve various datasets, including:
+- Incident Reports: Records of workplace incidents, including unique incident IDs, dates, departments, issues, severity levels, and current status.
+- Safety Logs: Details of safety inspections, actions taken, and follow-up measures.
+- Department Information: Metadata about UCW departments, including department names and headcounts.
+
+# Methodology:
+# 1.Data Collection:
+- Gather datasets from various sources (inspection reports, safety logs) and import them into AWS S3 for storage
+- Use AWS Glue to catalog the datasets, including details like incident ID, date, department, issue, severity, and status, creating a metadata repository for easy data discovery and management.
+# 2.Data Assessment:
+- Utilize AWS Glue DataBrew to perform an initial assessment of the inspection report data. This includes identifying missing values, duplicates, and inconsistencies (e.g., discrepancies in incident dates or severity ratings).
+- Use DataBrew profiling tools to document data types, formats (e.g., date formats), and any issues across datasets.
+# 3.Data Cleaning:
+- Leverage AWS Glue DataBrew to address missing values in inspection reports, either by imputation or exclusion depending on the data's context (e.g., missing incident descriptions or incomplete actions).
+- Standardize formats for fields such as dates, department names, and severity levels (e.g., “low,” “medium,” “high”) using DataBrew transformations.
+- Remove duplicate entries for incidents and normalize categorical variables like incident status ("resolved," "pending," etc.).
+# 5.Data Consolidation:
+- Set up AWS glue data brew consolidate datasets into S3 bucket (in raw folders)
+- Set up AWS Glue ETL jobs to consolidate datasets and store the consolidated data in S3 (in curated folders) for future analytics and reporting, providing a unified view of health and safety data.
+# 6.Documentation and Validation:
+- Document the data wrangling process using AWS Glue’s catalog features, detailing data sources, cleaning methods, and transformations applied to the occupational health and safety data.
+- Validate the final dataset through exploratory analysis using AWS Athena to ensure the data is complete and accurate, ready for insights into workplace safety trends, departmental performance, and incident resolution effectiveness.
+# Tools and Technologies:
+- AWS Glue and AWS Glue DataBrew for data cleaning, transformation, and ETL.
+- AWS Athena for querying and performing analysis on structured datasets in S3.
+# Deliverables:
+-	A cleaned and transformed customer dataset ready for analysis, available in a suitable format (e.g., CSV, Excel Database).
+-	A comprehensive report documenting the data wrangling process, including challenges encountered, methods employed, and final dataset characteristics.
+-	Visualizations illustrating the key data insights and confirmations of data quality checks were conducted during the process.
+#	Timeline:
+- Expected completion of the project: 6 weeks, including phases for assessment, cleaning, transformation, and documentation.
+
+
+
