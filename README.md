@@ -28,7 +28,6 @@ Curated Zone (S3 Bucket - Curated Folder):
 - The data here should include cleaned and processed insights ready for analysis and visualization.
 # 3- Data Visualization: 
 - In this section, use Draw.io for visualizing data insights , for visualizations created based on the curated data in the S3 bucket after ETL processing.
-
 # 4- Recommendations: 
 - Improving Health and Safety Protocols:
 - Departments with high incident frequency should receive targeted safety training and enhanced protocols.
@@ -37,7 +36,6 @@ Curated Zone (S3 Bucket - Curated Folder):
 - Suggest additional safety checks in areas with a high percentage of medium to high severity incidents, as identified in your visualizations.
 - Incident Tracking and Resolution:
 - Use data stored in the curated folder to enhance the tracking of ongoing and pending incidents, recommending an automated process for quick updates and alerts.
-
 # Tools and Technologies:
 - Excel , AWS Services, S3 bucket
 - Data visualization tools : Draw.io ,ETL pipeline
@@ -46,4 +44,5 @@ Curated Zone (S3 Bucket - Curated Folder):
 - Visualizations and dashboards to present key insights clearly.
 - A presentation for particular department head to communicate important findings and suggestions for future action.
 # This descriptive analysis project aims to provide a comprehensive understanding of incidents happened at UCW and to improve health and safety procedures and policies at UCW to mitigate the accidents.
-# Screen shot 1-Operational environment analysis and Data analytics Platform.png
+![AWS Project](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%201-Operational%20environment%20analysis%20and%20Data%20analytics%20Platform.png)
+
