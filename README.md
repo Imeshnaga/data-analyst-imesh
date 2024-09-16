@@ -1,4 +1,4 @@
-# Descriptive Analysis 
+# Descriptive Analysis - Project 1
 # Project Description: Descriptive Analysis of Occupational health and safety at UCW
 # Project Title: Understanding Inspection report of incident happened on 2024
 - Objective: The primary goal of this project is to conduct a descriptive analysis of the Inspection report. Through this analysis, I aim to summarize key characteristics of inspection completions, identify trends, and generate insights that can inform health and safety strategies to UCW.
