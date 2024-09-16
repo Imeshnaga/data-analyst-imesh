@@ -56,19 +56,16 @@ Curated Zone (S3 Bucket - Curated Folder):
 ![AWS Project 1](Project 1 - Imeges/Screen shot 5 - ETL Pipeline for inspection data set.png)
 - Screen shot 6 : Data stored under curated folder in S3 bucket
 ![AWS Project 1](Project 1 - Imeges/Screen shot 6 - Data stored under curated folder in S3 bucket.png)
-
 # Data Wrangling - Project 2
 # Project Title: Data Wrangling for Enhanced Occupational Health and Safety Analytics at UCW
 # Objective:
 - The primary goal of this project is to perform comprehensive data wrangling to prepare a robust dataset for occupational health and safety analytics at UCW. By cleaning, transforming, and consolidating data from various inspection reports and safety logs, the project aims to enhance the accuracy and usability of safety-related data for subsequent analysis and reporting. This will help in identifying trends, mitigating risks, and improving workplace safety protocols.
 # Background:
 - UCW has accumulated inspection data from multiple departments regarding occupational health and safety incidents. However, this data is often inconsistent, incomplete, or fragmented, making it difficult to derive actionable insights. Effective data wrangling will enable UCW to make informed decisions and develop targeted safety strategies to reduce workplace risks and incidents.
-
 # Dataset: The data wrangling process will involve various datasets, including:
 - Incident Reports: Records of workplace incidents, including unique incident IDs, dates, departments, issues, severity levels, and current status.
 - Safety Logs: Details of safety inspections, actions taken, and follow-up measures.
 - Department Information: Metadata about UCW departments, including department names and headcounts.
-
 # Methodology:
 # 1.Data Collection:
 - Gather datasets from various sources (inspection reports, safety logs) and import them into AWS S3 for storage
@@ -95,8 +92,7 @@ Curated Zone (S3 Bucket - Curated Folder):
 -	Visualizations illustrating the key data insights and confirmations of data quality checks were conducted during the process.
 #	Timeline:
 - Expected completion of the project: 6 weeks, including phases for assessment, cleaning, transformation, and documentation.
-  
-This modified project description ensures that the project objectives and datasets align with the HR-Occupational Health and Safety domain and UCW's inspection report analysis.
+  This modified project description ensures that the project objectives and datasets align with the HR-Occupational Health and Safety domain and UCW's inspection report analysis.
 # Screen shots
 - DAP from Draw.io
  ![AWS Project 2](Project - 2 - Imeage/DAP from Draw.io.png)
