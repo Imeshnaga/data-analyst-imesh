@@ -99,4 +99,10 @@ Curated Zone (S3 Bucket - Curated Folder):
 This modified project description ensures that the project objectives and datasets align with the HR-Occupational Health and Safety domain and UCW's inspection report analysis.
 # Screen shots
 - DAP from Draw.io
- ![AWS Project 2](Project - 2 - Imeage/DAP from Draw.io.png) 
+ ![AWS Project 2](Project - 2 - Imeage/DAP from Draw.io.png)
+- AWS Glue data brew cleaning and structuring data
+![AWS Project 2](Project - 2 - Imeage/AWS Glue data brew cleaning and structuring data.png)
+- Projects created
+![AWS Project 2](Project - 2 - Imeage/Projects created.png)
+- Atheena platforms data cleaning and structuring
+![AWS Project 2](Project - 2 - Imeage/Atheena platforms data cleaning and structuring.png)
