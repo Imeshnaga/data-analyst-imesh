@@ -57,8 +57,7 @@ Curated Zone (S3 Bucket - Curated Folder):
 - Screen shot 6 : Data stored under curated folder in S3 bucket
 ![AWS Project 1](https://github.com/Imeshnaga/data-analyst-imesh/blob/main/Screen%20shot%206%20-%20Data%20stored%20under%20curated%20folder%20in%20S3%20bucket.png)
 
-# Data Wrangling 
-# Project Description: Data Wrangling for Occupational Health and Safety Analytics at UCW
+# Data Wrangling - Project 2
 # Project Title: Data Wrangling for Enhanced Occupational Health and Safety Analytics at UCW
 # Objective:
 - The primary goal of this project is to perform comprehensive data wrangling to prepare a robust dataset for occupational health and safety analytics at UCW. By cleaning, transforming, and consolidating data from various inspection reports and safety logs, the project aims to enhance the accuracy and usability of safety-related data for subsequent analysis and reporting. This will help in identifying trends, mitigating risks, and improving workplace safety protocols.
